@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+        {
+            "source": "/_next/image/",
+            "destination": "/favicon.ico"
+        },
+        {
+            "source": "/:path(.*)",
+            "destination": "https://host.tuostudy.com/:path*"
+        }
+    ]
+}
