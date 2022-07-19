@@ -1,1 +1,1 @@
-window.location.replace("https://icodeq.com/2022/eb732fd1b830/");
+window.location.replace("https://tuo.icodeq.com/new");
