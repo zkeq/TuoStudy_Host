@@ -1,1 +1,1 @@
-importScripts('https://npm.onmicrosoft.cn/clientworker@2.5.2/dist/cw.js')
+importScripts('https://npm.onmicrosoft.cn/clientworker@2.4.2/dist/cw.js')
