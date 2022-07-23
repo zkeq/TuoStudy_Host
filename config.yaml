@@ -1,4 +1,8 @@
 name: TuoStatic
+hotpatch:
+    - https://tuostudy.com/cw.js
+hotconfig:
+    - https://tuostudy.com/config.yaml
 catch_rules:
   - rule: _
     transform_rules:
