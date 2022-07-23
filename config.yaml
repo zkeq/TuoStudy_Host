@@ -11,6 +11,8 @@ catch_rules:
         fetch:
           engine: fetch
           redirect: manual 
+          cache:
+            expires: 21600
       - search: (^4|^5) 
         searchin: status 
         action: return
