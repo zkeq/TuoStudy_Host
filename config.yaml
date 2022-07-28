@@ -1,8 +1,8 @@
 name: TuoStatic
 hotpatch:
-    - https://tuostudy.com/cw.js
+    - https://githubusercontent.onmicrosoft.cn/zkeq/TuoStudy_Host/main/cw.js
 hotconfig:
-    - https://tuostudy.com/config.yaml
+    - https://githubusercontent.onmicrosoft.cn/zkeq/TuoStudy_Host/main/config.yaml
 catch_rules:
   - rule: _
     transform_rules:
