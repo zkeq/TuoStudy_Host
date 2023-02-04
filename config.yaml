@@ -10,7 +10,7 @@ catch_rules:
         searchin: url
         replace: ''
       - search: _
-        replace: tuostudy.onmicrosoft.cn
+        replace: tuostudy-static.onmicrosoft.cn
         action: fetch
         fetch:
           engine: fetch
